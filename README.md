@@ -6,7 +6,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto desenvolvido é uma pagina web, que foi criada para buscas de informações Pokemón na API pokeapi.co.
+O projeto desenvolvido é uma pagina web, que foi criada para busca de informações Pokemón na API pokeapi.co.
 
 
 

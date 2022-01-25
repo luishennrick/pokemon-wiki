@@ -24,6 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [React JS](https://pt-br.reactjs.org/)
 - [AXIOS](https://axios-http.com/docs/intro)
 - [Styled - Components](https://styled-components.com/)
+- [PokéAPI](https://pokeapi.co/)
 
 ## 🗂 Criando o projeto
 
